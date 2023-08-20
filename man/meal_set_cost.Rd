@@ -14,3 +14,6 @@ meal_set_cost(set_name, count)
 \description{
 Meal Set Cost Calculator
 }
+\examples{
+Meal Set A: Tonkatsu (with sauce) over rice with unlimited refills for sides of coleslaw and small soup of the day. Meal Set B: Your choice of grilled chicken or baked tofu, tossed with soy-garlic glaze, sweet corn, and zucchini over rice. Optional: crispy dried seaweed flakes and sesame seeds. Also comes with melted mozzarella cheese on top.
+}
